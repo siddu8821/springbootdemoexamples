@@ -10,6 +10,7 @@ public class SpringbootdemoexamplesApplication {
 		System.out.println("This is Raju application");
 		System.out.println("This is for testing");
 		System.out.println("Maven configured");
+		System.out.println("Maven issue is resolved");
 		SpringApplication.run(SpringbootdemoexamplesApplication.class, args);
 	}
 
